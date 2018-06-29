@@ -1,0 +1,5 @@
+com\tcs\colloboration\rest\controller\JobController.class
+com\tcs\colloboration\rest\controller\FriendController.class
+com\tcs\colloboration\rest\controller\ForumController.class
+com\tcs\colloboration\rest\controller\ProfilePictureController.class
+com\tcs\colloboration\rest\controller\UserController.class
